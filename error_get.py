@@ -107,4 +107,7 @@ df.to_excel(r'D:\dis_box_Tools\box_summery\summary\summary.xlsx')  # エクセ�
 '''
 出力データのフレーム作成
 ここまで
+
+作成者：奥川
+最終更新:2020/08/03
 '''
